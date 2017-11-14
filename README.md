@@ -1,0 +1,2 @@
+# extRetail
+eXtensibility for Retail
